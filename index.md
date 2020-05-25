@@ -25,4 +25,4 @@
     - Preguntar quien fue...  
 - Comentar en el estudio del libro  
 
-[Enlace de descarga de un test](test/documento.txt)
+[Enlace de descarga de un test](test/test1.docx)
