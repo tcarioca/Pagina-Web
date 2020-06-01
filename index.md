@@ -1,10 +1,10 @@
 # Pagina web del kokis
-## Pagina web del kokis lokis
+/*## Pagina web del kokis lokis
 ### Pagina web del kokis lokis frolis
 #### Pagina web del kokis lokis flolis lokys
 
 [Enlace a as.com](https://www.as.com)  
-![Imagen de internet](https://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2017/11/09/2.jpeg?itok=5PCedcF3)  
+![Imagen de internet](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwM4lY6pJFvUPjjc1P5q12A3VJujMhqB-HcDR6dWwHfsVr1dR7&usqp=CAU)  
 Hola que tal me llamo aitor **Texto en negrita**  
 *Texto en cursiva*  
 ***Texto en negrita y en cursiva a la vez***  
@@ -23,6 +23,6 @@ Hola que tal me llamo aitor **Texto en negrita**
 - Hacer las perlas  
     - Explicar el significado de...  
     - Preguntar quien fue...  
-- Comentar en el estudio del libro  
-
+- Comentar en el estudio del libro  */
+![Imagen de internet](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwM4lY6pJFvUPjjc1P5q12A3VJujMhqB-HcDR6dWwHfsVr1dR7&usqp=CAU)  
 [Enlace de descarga de un test](test/TES 01 INCENDIOS FORESTALES pdf.pdf)
