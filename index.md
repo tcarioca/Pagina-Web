@@ -1,5 +1,5 @@
 # Pagina web del kokis
-/*## Pagina web del kokis lokis
+## Pagina web del kokis lokis
 ### Pagina web del kokis lokis frolis
 #### Pagina web del kokis lokis flolis lokys
 
@@ -23,6 +23,5 @@ Hola que tal me llamo aitor **Texto en negrita**
 - Hacer las perlas  
     - Explicar el significado de...  
     - Preguntar quien fue...  
-- Comentar en el estudio del libro  */
-![Imagen de internet](https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSwM4lY6pJFvUPjjc1P5q12A3VJujMhqB-HcDR6dWwHfsVr1dR7&usqp=CAU)  
+- Comentar en el estudio del libro   
 [Enlace de descarga de un test](test/TES 01 INCENDIOS FORESTALES pdf.pdf)
