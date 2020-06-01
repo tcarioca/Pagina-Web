@@ -5,14 +5,14 @@
 
 [Enlace a as.com](https://www.as.com)  
 ![Imagen de internet](https://www.eluniversal.com.mx/sites/default/files/styles/f03-651x400/public/2017/11/09/2.jpeg?itok=5PCedcF3)  
-**Texto en negrita**  
+Hola que tal me llamo aitor **Texto en negrita**  
 *Texto en cursiva*  
 ***Texto en negrita y en cursiva a la vez***  
 
 > En un lugar de la Mancha de cuyo nombre no quiero acordarme... Cita  
 
 **Listas**  
-1. Comprar pan  
+1. [Enlace a as.com](https://www.as.com) 
 2. Comprar leche  
 3. Comprar mandarinas  
 
@@ -25,4 +25,4 @@
     - Preguntar quien fue...  
 - Comentar en el estudio del libro  
 
-[Enlace de descarga de un test](test/test1.docx)
+[Enlace de descarga de un test](test/TES 01 INCENDIOS FORESTALES pdf.pdf)
